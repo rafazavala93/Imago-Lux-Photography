@@ -1,0 +1,17 @@
+body{
+	background-color: lightgrey
+}
+
+h1{
+			font-size: 50px;
+			color: steelblue;
+		}
+
+		h2{
+			color:teal;
+			font-size: 60px
+		}
+		.big{
+			font-size: 80px;
+		}
+		h1 span{color:violet;}
